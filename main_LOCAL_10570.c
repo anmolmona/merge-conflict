@@ -13,9 +13,5 @@ Initial Security()
 Feature2()
 {
 	// Feature2 added
-Security patch()
-{
-	//Security patch added
-
 
 }
